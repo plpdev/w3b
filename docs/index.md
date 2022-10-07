@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcom3 to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/plpdev/w3b/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
